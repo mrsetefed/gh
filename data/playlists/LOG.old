@@ -1,0 +1,8 @@
+2025/08/01-20:13:29.387 30a4 Recovering log #149
+2025/08/01-20:13:29.390 30a4 Delete type=0 #149
+2025/08/01-20:13:29.390 30a4 Delete type=3 #147
+2025/08/01-20:14:11.463 61d4 Level-0 table #154: started
+2025/08/01-20:14:11.463 61d4 Level-0 table #154: 0 bytes OK
+2025/08/01-20:14:11.464 61d4 Delete type=0 #152
+2025/08/01-20:14:11.473 61d4 Manual compaction at level-0 from '!playlists!FVDFwwN0aWUjajNL' @ 72057594037927935 : 1 .. '!playlists.sounds!sXlodwQWsq1jyXH8.VxD1LDyEIB0Mezwr' @ 0 : 0; will stop at (end)
+2025/08/01-20:14:11.473 61d4 Manual compaction at level-1 from '!playlists!FVDFwwN0aWUjajNL' @ 72057594037927935 : 1 .. '!playlists.sounds!sXlodwQWsq1jyXH8.VxD1LDyEIB0Mezwr' @ 0 : 0; will stop at (end)

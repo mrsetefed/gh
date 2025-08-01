@@ -1,0 +1,8 @@
+2025/08/01-20:15:37.002 30a4 Recovering log #143
+2025/08/01-20:15:37.005 30a4 Delete type=0 #143
+2025/08/01-20:15:37.005 30a4 Delete type=3 #141
+2025/08/01-20:18:29.290 61d4 Level-0 table #148: started
+2025/08/01-20:18:29.290 61d4 Level-0 table #148: 0 bytes OK
+2025/08/01-20:18:29.291 61d4 Delete type=0 #146
+2025/08/01-20:18:29.291 61d4 Manual compaction at level-0 from '!messages!0Ubm9R4RJp9gaOE8' @ 72057594037927935 : 1 .. '!messages!zqP0B4aGp0pjDCQK' @ 0 : 0; will stop at (end)
+2025/08/01-20:18:29.291 61d4 Manual compaction at level-1 from '!messages!0Ubm9R4RJp9gaOE8' @ 72057594037927935 : 1 .. '!messages!zqP0B4aGp0pjDCQK' @ 0 : 0; will stop at (end)

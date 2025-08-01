@@ -1,0 +1,35 @@
+{
+  "title": "Chavo",
+  "id": "chavo",
+  "system": "dnd5e",
+  "background": "Lightbringers/Scenes/Act%201/%D0%9D%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D0%9A%D0%BB%D1%8F%D1%82%D0%B2%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B2%D1%8C%D1%8E.png",
+  "joinTheme": "default",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "4.3.8",
+  "lastPlayed": "Fri Aug 01 2025 20:18:29 GMT+0500 (Екатеринбург, стандартное время)",
+  "playtime": 76679,
+  "packs": [
+    {
+      "label": "GH",
+      "type": "Adventure",
+      "name": "gh",
+      "path": "packs/gh",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.gh",
+      "packageType": "world",
+      "packageName": "chavo",
+      "index": [],
+      "folders": []
+    }
+  ]
+}
